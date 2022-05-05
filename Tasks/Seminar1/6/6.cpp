@@ -21,10 +21,10 @@ int main()
     }
     cout << endl;
 
-    int count=NULL, max=NULL;
+    int count = NULL, max = NULL;
     for (int i = 0; i < numNumbers; i++)
     {
-        if (arr[i] == arr[i+1]-1)
+        if (arr[i] < arr[i + 1])
         {
             count++;
         }

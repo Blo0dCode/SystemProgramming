@@ -2,7 +2,7 @@
 
 int main()
 {
-	char name[] = "Vadim", 
+	char name[] = "Vadim",
 		surName[] = "Osipov",
 		patronymic[] = "Vyacheslavovich",
 		faculty[] = "FMF";

@@ -15,7 +15,7 @@ int main()
     {
         result1 *= x;
     }
-    
+
     result2 = pow(x, y);
 
     std::cout << "(for)x^y = " << result1 << std::endl;
