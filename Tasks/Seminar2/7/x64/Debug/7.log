@@ -1,0 +1,5 @@
+﻿  7.cpp
+C:\Users\Бал у Сатаны\Documents\GitHub\SystemProgramming\Tasks\Seminar2\7\7.cpp(15,30): warning C4244: +=: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Бал у Сатаны\Documents\GitHub\SystemProgramming\Tasks\Seminar2\7\7.cpp(26,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Бал у Сатаны\Documents\GitHub\SystemProgramming\Tasks\Seminar2\7\7.cpp(26,20): warning C4244: =: преобразование "unsigned __int64" в "double", возможна потеря данных
+  7.vcxproj -> C:\Users\Бал у Сатаны\Documents\GitHub\SystemProgramming\Tasks\Seminar2\x64\Debug\7.exe

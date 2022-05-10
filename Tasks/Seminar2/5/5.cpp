@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-int factorial(int i);
+unsigned long long factorial(int i);
 
 int main()
 {
@@ -19,15 +19,15 @@ int main()
     cout << "Factorial of " << num << " is " << fact << endl;
 }
 
-int factorial(int i)
+unsigned long long factorial(int n)
 {
-    if (i == 0)
+    if (n == 0)
     {
         return 1;
     }
     else
     {
-        return i * factorial(i - 1);
+        return n * factorial(n - 1);
     }
 
 }
